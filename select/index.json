@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "GIRL FRIEND",
+  "base_artist": "Base Ball Bear",
+  "createdAt": "2025-12-29T01:16:38.991634Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Girl Friend",
+      "artist": "A.R. Rahman",
+      "has_synced": true,
+      "path": "select/01_Girl_Friend_A.R._Rahman.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Girl Friend",
+      "artist": "A. R. Rahman",
+      "has_synced": true,
+      "path": "select/02_Girl_Friend_A._R._Rahman.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Girl Friend - Boys",
+      "artist": "Karthik",
+      "has_synced": false,
+      "path": "select/03_Girl_Friend_-_Boys_Karthik.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Girl Friend Of The Whirling Dervish",
+      "artist": "Bette Midler",
+      "has_synced": false,
+      "path": "select/04_The_Girl_Friend_Of_The_Whirling_Dervish_Bette_Midler.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Letter to My Girl Friend",
+      "artist": "Stevie Ray Vaughan And Double Trouble",
+      "has_synced": false,
+      "path": "select/05_Letter_to_My_Girl_Friend_Stevie_Ray_Vaughan_And_Double_Trouble.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tamiditin Tan Ufrawan (My Secretive Girl Friend)",
+      "artist": "Tinariwen",
+      "has_synced": true,
+      "path": "select/06_Tamiditin_Tan_Ufrawan_(My_Secretive_Girl_Friend)_Tinariwen.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Chandu Ki Girl Friend",
+      "artist": "Sachin-Jigar feat. Raman Mahadevan, Jigar Saraiya, Divya Pushkarna, Sagar Kendurkar & Madhav Krishna",
+      "has_synced": true,
+      "path": "select/07_Chandu_Ki_Girl_Friend_Sachin-Jigar_feat._Raman_Mahadevan,_Jigar_Saraiya,_Divya_Pushkarna,_Sagar_Kendur.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Chandu Ki Girl Friend",
+      "artist": "Sachin-Jigar, Raman Mahadevan, Jigar Saraiya, Divya Pushkarna, Sagar Kendurkar, Madhav Krishna",
+      "has_synced": true,
+      "path": "select/08_Chandu_Ki_Girl_Friend_Sachin-Jigar,_Raman_Mahadevan,_Jigar_Saraiya,_Divya_Pushkarna,_Sagar_Kendurkar,_.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Girl Friend",
+      "artist": "Karthik feat. Dimmi & Tippu",
+      "has_synced": true,
+      "path": "select/09_Girl_Friend_Karthik_feat._Dimmi_&_Tippu.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Girl Friend",
+      "artist": "Seiko Matsuda",
+      "has_synced": false,
+      "path": "select/10_Girl_Friend_Seiko_Matsuda.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Girl Friend",
+      "artist": "Rocket Punch",
+      "has_synced": true,
+      "path": "select/11_Girl_Friend_Rocket_Punch.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Girl Friend",
+      "artist": "Momoko Kikuchi",
+      "has_synced": false,
+      "path": "select/12_Girl_Friend_Momoko_Kikuchi.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Girl Friend",
+      "artist": "Karthik feat. Tippu",
+      "has_synced": true,
+      "path": "select/13_Girl_Friend_Karthik_feat._Tippu.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Girl Friend",
+      "artist": "Rupam Islam feat. Boony Sengupta",
+      "has_synced": true,
+      "path": "select/14_Girl_Friend_Rupam_Islam_feat._Boony_Sengupta.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Girl Friend",
+      "artist": "Rupam Islam",
+      "has_synced": true,
+      "path": "select/15_Girl_Friend_Rupam_Islam.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Girl Friend",
+      "artist": "Anurag Kulkarni",
+      "has_synced": true,
+      "path": "select/16_Girl_Friend_Anurag_Kulkarni.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Girl Friend",
+      "artist": "Karthik & Tippu",
+      "has_synced": true,
+      "path": "select/17_Girl_Friend_Karthik_&_Tippu.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Girl Friend",
+      "artist": "Karthik, Dimmi, & Tippu",
+      "has_synced": true,
+      "path": "select/18_Girl_Friend_Karthik,_Dimmi,_&_Tippu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Girl Friend",
+      "artist": "BaseBallBear",
+      "has_synced": false,
+      "path": "select/pl_01_Girl_Friend_BaseBallBear.txt"
+    }
+  ]
+}
